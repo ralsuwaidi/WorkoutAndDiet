@@ -1,4 +1,4 @@
-# Workout
+# The Workout
 
 ### Monday – Workout A1
 
