@@ -7,6 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
+**TODO**: Fix formatting and maybe write summary
 
 ## [Training for strength and hypertrophy: an evidence-based approach](https://drive.google.com/file/d/1QQKYQIni8SEPYAUGIly1_B9VR5Fp4PIh/preview)
 

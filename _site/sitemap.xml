@@ -32,12 +32,12 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/beginner/</loc>
+    <loc>https://example.com/tags/review/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/review/</loc>
+    <loc>https://example.com/tags/beginner/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
@@ -133,6 +133,6 @@
   
   <url>
     <loc>https://example.com/research/</loc>
-    <lastmod>2020-08-03</lastmod>
+    <lastmod>2020-08-04</lastmod>
   </url>
 </urlset>
