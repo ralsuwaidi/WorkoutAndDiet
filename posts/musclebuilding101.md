@@ -1,0 +1,109 @@
+---
+title: Muscle Building 101
+description: This is a post on My Blog about agile frameworks.
+date: 2020-08-03
+tags:
+  - beginner
+  - review
+layout: layouts/post.njk
+---
+
+<main id="main" class="site-main" role="main"><article id="post-481" class="post-481 page type-page status-publish hentry"><div class="entry-content"><h2>Introduction<span class="ez-toc-section-end"></span></h2>
+<p>There is an illusion of complexity to gaining weight and building muscle (perpetuated largely by people who want your money) but it is actually very straightforward. Your body requires a certain amount of energy (measured in calories) each day in order to fuel its activities. This is called your Total Daily Energy Expenditure or TDEE. If your diet supplies fewer calories than your TDEE (a deficit), you will lose weight. If your diet supplies more calories than your TDEE (a surplus), you will gain weight. You’ve probably heard of many different diets out there, and when they work, they all achieve weight gain in the same way – manipulating calorie balance.</p>
+<p>This creates two points of failure to be aware of:</p>
+<ul>
+<li><strong>Underestimating your TDEE.</strong><br>
+This is very easy to do. Just remember, always, that no TDEE calculation is 100% accurate. Treat them as estimates only and don’t get fixated on what a calculator told you if it conflicts with what you’re seeing on the scale. Calculations of calorie burn during exercise, in particular, tends to be&nbsp;<em>wildly</em> inaccurate and inflated.</li>
+<li><strong>Overestimating your calorie consumption.</strong><br>
+Most commonly this happens when people pay inadequate attention to what they’re eating. This ranges from eyeballing portion sizes to simply not tracking calorie consumption at all.</li>
+</ul>
+<p>Whichever it is, the most important fact to remember is that <strong>the scale doesn’t lie</strong>. In order to maintain or lose weight while eating at a true surplus, it would require your body to break the laws of the universe by making energy vanish into thin air. You can read further in our FAQ: <a href="https://thefitness.wiki/faq/why-cant-i-gain-weight/">Why can’t I gain weight?</a></p>
+<h2><span class="ez-toc-section" id="Resistance_Training"></span>Resistance Training<span class="ez-toc-section-end"></span></h2>
+<p>The second piece of the puzzle is adding resistance training to your life. If you simply start eating more without giving your body a stimulus to build muscle, all you’ll do is get fat. That stimulus is resistance training.</p>
+<p>There’s a lot of debate on the internet about the most optimal and efficient muscle building routines. The truth lies in the old adage – “Many roads lead to Rome”. Most of the sensible routines you can find out there work well if you commit to them and give them time. r/Fitness has a rich history of progress threads that prove a person can build muscle on just about any proven routine. Even better, “gym bros” everywhere have proven repeatedly that you can run some of the dumbest routines imaginable and still make good progress if you are trying hard.</p>
+<p>While it doesn’t matter much&nbsp;<em>which</em> routine you follow, it’s still important that you do follow a structured routine. You can read more about this in the <a href="https://thefitness.wiki/adding-physical-activity/#The_Importance_of_Having_a_Program">Importance of Having a Program</a> section of the Adding Physical Activity page. A list of reliable, good quality routines that r/Fitness users commonly recommend can be found on the <a href="https://thefitness.wiki/routines/strength-training-muscle-building/">Recommended Routines – Strength Training / Muscle Building</a> page.</p>
+<h2><span class="ez-toc-section" id="Protein"></span>Protein<span class="ez-toc-section-end"></span></h2>
+<p>It’s important to ensure that you eat enough protein each day to fuel the process of building muscle. To maximize the benefit for building muscle, you’ll want to consume at least 160g or 0.8g/lb, whichever is greater. You can read more about this in the <a href="https://thefitness.wiki/improving-your-diet/#Macronutrients">Macronutrients </a>section of the Improving Your Diet page.</p>
+<p>In your quest to build muscle, keep in mind that there is nothing special about protein powders or mass gainers. Quite literally, they are nothing more than powdered food. The only advantage the offer over any other protein source is convenience – they’re easy to prepare, transport, store, and consume. That’s it. They are just a potential tool you could use to meet your protein or calorie needs.</p>
+<h2><span class="ez-toc-section" id="Step_By_Step_Guide"></span>Step By Step Guide<span class="ez-toc-section-end"></span></h2>
+<ol>
+<li><strong>Take your “before” measurements.</strong><br>
+These can be any measurements you want, but should at least include weight and photos of front, back, and side (in underwear is ideal).</li>
+<li><strong>Estimate your TDEE.</strong><br>
+Remember to treat this as an estimate only, and keep in mind the adage “No plan survives engagement with the enemy”. Expect to have to adjust this number over time. In particular, expect it to be higher as you gain weight.</li>
+<li><strong>Set a daily calorie goal.<br>
+</strong>The best place to start is by increasing your TDEE by 10-20% (TDEE x 1.1-1.2). You will usually want to avoid going above 20% more than your TDEE. Going too far above your TDEE will lead to increased fat gain, and could make it very difficult to eat enough food without discomfort. Muscle builds very slowly, so don’t think that more food always = more muscle.</li>
+<li><strong>Set a daily protein goal.<br>
+</strong>Shoot for a bare minimum of 160g per day of protein, ideally spread across four meals. Up to 0.8g/lb per day has been shown to be beneficial for building muscle.</li>
+<li><strong>Track your calorie and protein consumption.</strong><br>
+Tools such as&nbsp;<a href="http://www.myfitnesspal.com/" target="_blank" rel="nofollow noopener noreferrer">MyFitnessPal</a>&nbsp;or&nbsp;<a href="http://nutritiondata.self.com/" target="_blank" rel="nofollow noopener noreferrer">NutritionData</a>&nbsp;are very useful for tracking calories. We also recommend the&nbsp;<a href="https://drive.google.com/open?id=0B8EbfzFB0mBrMGJ6V2N5QWNfeTg" rel="nofollow">3-Suns Adaptive TDEE Spreadsheet</a>, which will adjust its estimate of your TDEE over time. Track&nbsp;<strong>everything</strong> you eat and drink, including additives and toppings.</li>
+<li><strong>Take regular progress measurements</strong>.<br>
+Weight should generally be measured once a day (or at least once a week), preferably unclothed and on an empty stomach. Don’t sweat day-to-day fluctuations – <strong>track the trend over time</strong>.&nbsp;Monthly progress photos may be worth considering. Avoid any handheld or scale based body fat percentage measurements – the bio-electrical impedance method is extremely inaccurate and inconsistent.</li>
+<li><strong>Adjust your diet over time.</strong><br>
+As you gain weight, your TDEE will inevitably go up – more mass requires more calories to fuel. This means that your starting calorie goal will eventually no longer cause weight gain, and you will need to adjust it up.</li>
+<li><strong>Be patient and do not expect progress to be fast</strong><br>
+While you can gain <em>weight</em>&nbsp;pretty quickly, gaining actual muscle is a different story. You should not expect to gain more than ~2 lbs of pure muscle per month. Additionally, you should not expect to start seeing visual changes for at least the first month, and no&nbsp;<em>noticeable</em> changes for at least the first 2-3 months. Don’t let this discourage you.<br>
+<em>(Source:&nbsp;<a href="https://www.strongerbyscience.com/realistic-training-goals/">Stronger By Science – Data Based Targets to Set Realistic Training Goals</a>)</em></li>
+</ol>
+<h2><span class="ez-toc-section" id="Additional_Reading_and_Resources"></span>Additional Reading and Resources<span class="ez-toc-section-end"></span></h2>
+<p>Below are some additional resources that can help you with gaining muscle.</p>
+<h4><span class="ez-toc-section" id="In_this_Wiki"></span>In this Wiki:<span class="ez-toc-section-end"></span></h4>
+<ul>
+<li><a href="https://thefitness.wiki/routines/strength-training-muscle-building/">Recommended Workout Routines – Strength Training and Muscle Building</a></li>
+<li><a href="https://thefitness.wiki/improving-your-diet/">Improving Your Diet</a>
+<ul>
+<li><a href="https://thefitness.wiki/improving-your-diet/#General_Diet_Improvement">General Diet Improvement</a></li>
+<li><a href="https://thefitness.wiki/improving-your-diet/#Macronutrients">Macros</a></li>
+</ul>
+</li>
+<li><a href="https://thefitness.wiki/resources/muscles-and-muscle-groups/">Muscles and Muscle Groups</a> – A page of resources for building specific muscles</li>
+<li><a href="https://www.reddit.com/r/fitness/search?q=flair%3Arecipe&amp;sort=new&amp;restrict_sr=on">r/Fitness Recipes Megathreads</a></li>
+<li class="page_item page-item-31"><a href="https://thefitness.wiki/faq/why-cant-i-gain-weight/">FAQ: Why can’t I gain weight?</a></li>
+<li><a href="https://thefitness.wiki/faq/im-not-making-any-progress-what-can-i-do/">FAQ: I’m not making any progress. What can I do?</a></li>
+<li class="page_item page-item-148"><a href="https://thefitness.wiki/faq/can-i-lose-fat-and-build-muscle-at-the-same-time/">FAQ: Can I lose fat and build muscle at the same time?</a></li>
+<li class="page_item page-item-214"><a href="https://thefitness.wiki/faq/how-quickly-can-i-change-my-body-and-grow-muscle/">FAQ: How quickly can I change my body and grow muscle?</a></li>
+<li class="page_item page-item-66"><a href="https://thefitness.wiki/faq/look-like-actor-celebrity-etc/">FAQ: I want to look like [actor/celebrity/picture], how should I diet and work out?</a></li>
+<li class="page_item page-item-191"><a href="https://thefitness.wiki/faq/is-my-metabolism-super-fast-really-slow/">FAQ: Is my metabolism super fast/really slow?</a></li>
+<li class="page_item page-item-196"><a href="https://thefitness.wiki/faq/should-i-drink-protein-shakes-whey-protein-mass-gainers/">FAQ: Should I drink protein shakes / whey protein / mass gainers?</a></li>
+<li class="page_item page-item-189"><a href="https://thefitness.wiki/faq/is-it-true-that-eating-too-much-protein-at-once-is-a-waste/">FAQ: Is it true that eating too much protein at once is a waste?</a></li>
+<li class="page_item page-item-187"><a href="https://thefitness.wiki/faq/how-important-is-nutrient-or-meal-timing/">FAQ: How important is nutrient or meal timing?</a></li>
+<li class="page_item page-item-200"><a href="https://thefitness.wiki/faq/what-supplements-are-good-to-take/">FAQ: What supplements are good to take?</a></li>
+<li class="page_item page-item-185"><a href="https://thefitness.wiki/faq/how-do-i-estimate-the-calories-im-eating-if-i-didnt-make-my-food/">FAQ: How do I estimate the calories I’m eating if I didn’t make my food?</a></li>
+<li class="page_item page-item-212"><a href="https://thefitness.wiki/faq/should-i-train-full-body-or-a-body-part-split/">FAQ: Should I train full-body or a body-part split?</a></li>
+<li class="page_item page-item-229"><a href="https://thefitness.wiki/faq/what-is-the-best-rep-range-for-muscle-growth-hypertrophy/">FAQ: What is the best rep range for muscle growth / hypertrophy?</a></li>
+<li class="page_item page-item-227"><a href="https://thefitness.wiki/faq/what-are-the-different-repetition-ranges-good-for/">FAQ: What are the different repetition ranges good for?</a></li>
+<li class="page_item page-item-233"><a href="https://thefitness.wiki/faq/should-i-always-lift-to-failure/">FAQ: Should I always lift to failure?</a></li>
+<li class="page_item page-item-221"><a href="https://thefitness.wiki/faq/does-cardio-impair-muscle-gains/">FAQ: Does cardio impair muscle gains?</a></li>
+<li><a href="https://www.reddit.com/r/AdvancedFitness/comments/a28fe2/optimizing_muscle_growth_a_compilation_of/">r/AdvancedFitness –&nbsp;Optimizing muscle growth: A compilation of hypertrophy focused resources</a></li>
+</ul>
+<h4><span class="ez-toc-section" id="External_Links"></span>External Links:<span class="ez-toc-section-end"></span></h4>
+<ul>
+<li><a href="https://www.strongerbyscience.com/can-we-predict-muscle-growth/">Stronger By Science: Can We Predict Muscle Growth?</a></li>
+<li><a href="https://www.strongerbyscience.com/complete-strength-training-guide/">Stronger By Science: The Complete Strength Training Guide</a></li>
+<li><a href="https://www.strongerbyscience.com/how-to-get-strong-what-is-strong/">Stronger By Science: How to Get Strong Part 2: What is Strong?</a></li>
+<li><a href="https://www.strongerbyscience.com/your-drug-free-muscle-and-strength-potential-part-1/">Stronger By Science: YOUR Drug-Free Muscular Potential: Part 1</a>
+<ul>
+<li>However: <a href="https://www.strongerbyscience.com/genetics-expectations/">Stronger By Science: Genetics-Based Expectations Affect Your Physiology</a></li>
+</ul>
+</li>
+<li><a href="https://www.strongerbyscience.com/realistic-training-goals/">Stronger By Science: Data-Based Muscle, Strength, and Fat-Loss Targets to Set Realistic Training Goals</a></li>
+<li><a href="https://renaissanceperiodization.com/hypertrophy-training-guide-central-hub/">Renaissance Periodizaton: The Hypertrophy Training Guide Central Hub</a></li>
+<li><a href="http://sci-fit.net/2017/scientific-recommendations-1/">Sci-Fit: Scientific Recommendations for Strength and Hypertrophy Training from 150+ Studies</a> (<a href="https://www.reddit.com/r/weightroom/comments/5wvy4k/scientific_recommendations_for_strength_and/">Discussion Thread</a>)</li>
+<li><a href="https://www.reddit.com/r/weightroom/comments/ca5b66/102_lifting_resources_you_may_find_useful/">102 Lifting Resouces you may find useful – u/Mephostophelus</a></li>
+<li><a href="http://mythicalstrength.blogspot.com/2018/04/size-not-bodybuilding-strength-not.html">MythicalStrength – Size, Not Bodybuilding. Strength, Not Powerlifting.</a></li>
+</ul>
+	</div><!-- .entry-content -->
+
+	</article><!-- #post-## -->
+
+
+
+		</main>
+
+<!-- #main -->
+
+<!-- #primary -->
+
+<aside id="search-3" class="widget widget_search">
+    # 
+</aside>
