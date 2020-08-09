@@ -1,0 +1,5 @@
+
+To replace basic images with bootstrap 
+
+\[.*\((.*)\)\]\(.*\)
+<img src="$1" class="img-fluid" alt="Responsive image">
