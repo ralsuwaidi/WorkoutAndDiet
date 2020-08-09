@@ -150,4 +150,9 @@
     <loc>https://example.com/posts/delayedhypertrophy/</loc>
     <lastmod>2020-08-09</lastmod>
   </url>
+  
+  <url>
+    <loc>https://example.com/posts/effective-reps/</loc>
+    <lastmod>2020-08-09</lastmod>
+  </url>
 </urlset>
