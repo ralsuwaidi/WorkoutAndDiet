@@ -7,7 +7,7 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/research/</loc>
+    <loc>https://example.com/tags/beginner/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
@@ -32,7 +32,7 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/hypertrophy/</loc>
+    <loc>https://example.com/tags/research/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
@@ -42,12 +42,22 @@
   </url>
   
   <url>
+    <loc>https://example.com/tags/creatine/</loc>
+    <lastmod>2020-07-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/supplements/</loc>
+    <lastmod>2020-07-31</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/tags/review/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/beginner/</loc>
+    <loc>https://example.com/tags/hypertrophy/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
@@ -144,6 +154,11 @@
   <url>
     <loc>https://example.com/research/</loc>
     <lastmod>2020-08-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/creatine/</loc>
+    <lastmod>2020-08-09</lastmod>
   </url>
   
   <url>
