@@ -19,7 +19,7 @@ _2) Strength is a function of neural factors and muscular factors.  Once you’v
 
 _3) Based on a few simple calculations, you can get a pretty good idea of your muscular and strength potential._
 
-![Rear view of healthy young man with his arms stretched out isola](https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2015/05/iStock_000023934664_Medium4-1024x622.jpg)  
+<img src="https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2015/05/iStock_000023934664_Medium4-1024x622.jpg" class="img-fluid" alt="Responsive image">  
 I think almost every lifter has had this thought: “I used to be able to get bigger and stronger so easily!  But lately the gains have been slowing down dramatically, and I’ve barely made any progress in the past year.  How much bigger and stronger can I reasonably get?”
 
 That’s a hard question to answer objectively, but I’m going to try.  This article explains the basics of the models I’m using and makes some rough predictions.  Part 2 refines those predictions and lets you know how you can use that information to make training decisions.
@@ -65,7 +65,7 @@ A lot of people have gotten the idea that an FFMI of 25 is the maximum possible 
 
 The study compared the FFMIs of 74 nonusers to those of 83 steroid users.  None of the nonusers (which included some successful drug-free bodybuilders and strength athletes) had an adjusted FFMI over 25, whereas around half of the steroid users did.
 
-![image-7](https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2015/09/image-7.png)
+<img src="https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2015/09/image-7.png" class="img-fluid" alt="Responsive image">
 
 Case closed?  An FFMI over 25 automatically means someone is on drugs, right?
 
@@ -73,7 +73,7 @@ Not so fast.
 
 Kouri’s study also reports the FFMIs of top pre-steroid era bodybuilders who won the Mr. America show.
 
-![Screenshot 2015-09-22 19.54.52](https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2015/09/Screenshot-2015-09-22-19.54.52.png)
+<img src="https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2015/09/Screenshot-2015-09-22-19.54.52.png" class="img-fluid" alt="Responsive image">
 
 Now, it is possible that some of those people used steroids.  However, to quote [Eric Helms](http://www.3dmusclejourney.com/team-bios/)‘ [fantastic article](http://www.alanaragonblog.com/wp-content/uploads/2014/11/Aug-2014-AARR-Eric-Helms-Article.pdf):
 

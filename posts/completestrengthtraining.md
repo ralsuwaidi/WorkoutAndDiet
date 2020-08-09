@@ -415,7 +415,7 @@ Just to illustrate: Let’s say you’re comparing hip extension torque for two 
 
 Now let’s say you’re comparing two people with the same torso length, but one person’s ischial tuberosity (the origin point for the hamstrings) protrudes an extra inch, or their hamstrings originate a bit further down on the ischial tuberosity – which is entirely within the realm of possibility.  Pelvises come in all shapes and sizes.
 
-![](https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2015/02/Pelves.jpg)
+<img src="https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2015/02/Pelves.jpg" class="img-fluid" alt="Responsive image">
 
 Let’s say the distance between the hip joint and the origin of the hamstrings is about 3 inches on average. That extra inch means they produce ~33% more hip extension torque if their hamstrings contract with the same force.
 

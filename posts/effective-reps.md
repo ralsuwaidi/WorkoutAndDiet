@@ -211,7 +211,7 @@ So, let’s step back and get a lay of the land. There are two studies where tra
 
 If we drill down into the details of these studies, an interesting pattern emerges. There are four studies on trained lifters (Karsten, Helms, Pareja-Blanco, and Carroll) and four studies on untrained lifters (Sampson, Goto, Martorelli, and Nóbrega). All four studies on trained lifters used mostly multi-joint exercises, and all four studies on untrained lifters used single-joint exercises. In the studies on trained lifters using multi-joint exercises, there’s no real difference between going closer to failure or staying further from failure: a 9.5% increase staying further from failure versus a 8.3% difference going closer to failure. However, in the studies on untrained lifters using single-joint exercises, things lean _hard_ in favor of going to failure or closer to failure, with the groups going closer to failure experiencing almost twice as much growth on average: 12.3% vs. 6.2%. This finding will be discussed more later on.
 
-![training to failure ](https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2019/09/effective-reps-amalgamation.png)
+<img src="https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2019/09/effective-reps-amalgamation.png" class="img-fluid" alt="Responsive image">
 
 While we’re at it, I also want to address two of the other suppositions I previously alluded to that “effective reps” are supposed to help explain.
 
@@ -316,6 +316,6 @@ Altogether, these studies support the idea that in order to maximize growth on a
 
 I added these studies into the previous analysis, and they didn’t really move the needle for trained lifters, but they did cause a bit of a shift for untrained lifters. With these studies added in, failure training now appears to produce about 40% more growth than non-failure training for untrained lifters; it was nearly a 2-fold difference before. As a note, I only added the 20% vs. 40% and the 25% vs. 50% comparisons from the Pareja-Blanco studies into the analysis, since I can’t imagine there are many people performing singles at 70% of 1RM and treating it as hypertrophy training.
 
-![](https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2019/09/effective-reps-update.png)
+<img src="https://myzone-strengtheory.netdna-ssl.com/wp-content/uploads/2019/09/effective-reps-update.png" class="img-fluid" alt="Responsive image">
 
 ### 

@@ -5,5 +5,7 @@ To replace basic images with bootstrap
 <img src="$1" class="img-fluid" alt="Responsive image">
 
 <.*\[(.*)\]\((.*)\)\n<figcaption .*figure>
-
 <figure class="figure">  <img src="$2" class="img-fluid" alt="A generic square placeholder image with rounded corners in a figure.">  <figcaption class="figure-caption">$1</figcaption></figure>
+
+!\[\]\((.*.(png|jpeg|jpg))\)
+<img src="$1" class="img-fluid" alt="Responsive image">

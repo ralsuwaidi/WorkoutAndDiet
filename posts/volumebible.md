@@ -112,7 +112,7 @@ One of the first places we can look for evidence is in the impact of set volume 
 
 [In a third study by Damas and colleagues](https://www.ncbi.nlm.nih.gov/pubmed/31268828), 12 sets to failure with 2 minute rests on the quadriceps (6 sets of leg press and 6 sets of leg extensions) only caused a small increase in muscle protein synthesis compared to 8 sets to failure (4 sets of each exercise) in trained subjects.
 
-![](https://weightology.net/wp-content/uploads/2019/09/damas-muscle-protein-synthesis-set-volume.jpg)
+<img src="https://weightology.net/wp-content/uploads/2019/09/damas-muscle-protein-synthesis-set-volume.jpg" class="img-fluid" alt="Responsive image">
 
 _From Damas et al. (2019). VAR-sets did 12 sets in quadriceps, while CON did 8 sets. The increase in muscle protein synthesis from the additional 4 sets was very small, and was not related to hypertrophy._
 
@@ -210,17 +210,17 @@ Thus, the previous approach I had used for meta-analysis (comparing higher versu
 
 Another problem with my previous approaches is that my statistical models tested for a linear relationship between volume and hypertrophy.  However, this doesn't effectively test the inverted U hypothesis of training.  The inverted U hypothesis suggests that hypertrophy would decrease if training volumes became excessive.
 
-![](https://weightology.net/wp-content/uploads/2018/10/inverted-u.jpg)
+<img src="https://weightology.net/wp-content/uploads/2018/10/inverted-u.jpg" class="img-fluid" alt="Responsive image">
 
 If we were to test the inverted U hypothesis with a simple linear function, it would suggest a flat line and no relationship between volume and hypertrophy.  However, this is simply due to the use of the wrong model.  A more appropriate model would be a quadratic function.
 
-![](https://weightology.net/wp-content/uploads/2018/10/inverted-u-linear-versus-quadratic-1024x760.jpg)
+<img src="https://weightology.net/wp-content/uploads/2018/10/inverted-u-linear-versus-quadratic-1024x760.jpg" class="img-fluid" alt="Responsive image">
 
 It's also possible that there isn't really a regression at higher volumes, but more of a plateau or perhaps just slight regression. In this case, an inverted U or quadratic function isn't appropriate. For example, perhaps our model needs to reflect that there's a rapid increase in gains as you increase volume in the low end, with diminishing returns in the higher  
 end. For example, rodent muscle protein synthesis data shows a rapid initial increase followed by diminishing returns and a slight  
 regression.
 
-![](https://weightology.net/wp-content/uploads/2020/03/ogasawara.jpg)
+<img src="https://weightology.net/wp-content/uploads/2020/03/ogasawara.jpg" class="img-fluid" alt="Responsive image">
 
 In this case, a logarithmic relationship is probably the best, or perhaps a logarithmic relationship for early set volume and a flat or slightly declining linear relationship for very high volumes.
 
@@ -238,11 +238,11 @@ Unlike my previous iterations of the analysis, I primarily ran set volume as a _
 
 With short rest intervals, hypertrophy increased with increasing volume up to 15-16 sets per session, albeit with diminishing returns. This was true for both trained and untrained subjects.
 
-![](https://weightology.net/wp-content/uploads/2020/03/volume-chart-short-rest-1.jpg)
+<img src="https://weightology.net/wp-content/uploads/2020/03/volume-chart-short-rest-1.jpg" class="img-fluid" alt="Responsive image">
 
 For long rest intervals, a breakpoint model fit the data best, with a combination of a logarithmic curve and a straight line. This model showed hypertrophy to increase up to 6 sets per muscle group, followed by a very gradual regression after that. None of the studies with untrained subjects exceeded 6 sets per muscle group per session, and there were very few data points with less than 6 sets in trained subjects. Thus, I haven't separated it out by trained and untrained subjects, although an analysis of specifically trained and untrained subjects yielded curves with coefficients (the "multiplier" in an equation or model) similar to the combined data.
 
-![](https://weightology.net/wp-content/uploads/2020/03/volume-chart-long-rest.jpg)
+<img src="https://weightology.net/wp-content/uploads/2020/03/volume-chart-long-rest.jpg" class="img-fluid" alt="Responsive image">
 
 This data would suggest that, with long rest intervals, gains level off or maybe even regress beyond _**an average**_ of 6-8 sets per muscle group per training session. I stress average here because [there's data showing that individuals may deviate substantially from this](https://weightology.net/research-review-march-2020/training-volume-individualization-is-key/).
 
@@ -265,11 +265,11 @@ Finally, I can't stress enough that these are very rough averages. Just because 
 
 In the original version of this guide, I used some strength data by [Marshall et al](https://www.ncbi.nlm.nih.gov/pubmed/21451937)., [Ostrowski et al](http://journals.lww.com/nsca-jscr/Abstract/1997/08000/The_Effect_of_Weight_Training_Volume_on_Hormonal.3.aspx)., and [Baker et al](https://www.ncbi.nlm.nih.gov/pubmed/24083231). to make some inferences about the dose-response effect of volume on hypertrophy.  I assumed a strong relationship between strength and size gains in trained individuals, and used the strength gains in those studies as a proxy for hypertrophy.  However, as I've written in the [Progression Guide](https://weightology.net/the-members-area/evidence-based-guides/progression-for-hypertrophy-your-evidence-based-bible/), the relationship between strength and size is not as close as once thought, even in trained subjects.  In fact, [in a recent study that I was a co-author on](https://www.ncbi.nlm.nih.gov/pubmed/30153194), there were no differences in 1-RM bench or squat gains between three levels of volume (1, 3, and 5 sets per exercise) in trained subjects.  This is despite the fact that there was a graded dose response in hypertrophy.  There was also no correlation between strength gains and size gains in that study.  The following charts show the strength gains and muscle thickness gains; you can see no difference in 1-RM or endurance gains, but a graded dose response in three out of the four muscle groups tested.
 
-![](https://weightology.net/wp-content/uploads/2018/09/Volume-Strength-Dose-Response.png)
+<img src="https://weightology.net/wp-content/uploads/2018/09/Volume-Strength-Dose-Response.png" class="img-fluid" alt="Responsive image">
 
 Impact of Volume on 1-RM and Endurance Gains (1, 3, or 5 sets per exercise)
 
-![](https://weightology.net/wp-content/uploads/2018/09/dose-response-1024x667.png)
+<img src="https://weightology.net/wp-content/uploads/2018/09/dose-response-1024x667.png" class="img-fluid" alt="Responsive image">
 
 Dose-Response Impact of Volume on Hypertrophy (Sets Per Exercise)
 
@@ -287,7 +287,7 @@ In the original version of this guide, I had suggested that an optimal volume li
 
 Finally, a study performed was performed on high volume training by [Haun and colleagues](https://www.frontiersin.org/articles/10.3389/fnut.2018.00084/full).  Training lasted for 6 weeks.  Subjects started 10 sets per exercise per week (split into three sessions per week), with approximately one compound exercise per muscle group (squat, bench press or overhead press, SLDL and lat pull).  Subjects did 10 reps per set at approximately 60% 1-RM; the average Reps In Reserve (RIR) was around 4.  Set volume was progressed each week, so that subjects were doing 32 sets by week 6.  Lean mass (assessed via [DEXA](https://weightology.net/the-pitfalls-of-body-fat-measurement-part-6-dexa/)) significantly increased by 2.2 kg by the end of the study.  The researchers used bioelectrical impedance spectroscopy (BIS) to estimate the amount of intracellular vs. extracellular fluid, and subtracted the extracellular fluid amount from the DEXA lean mass to estimate how much tissue gain was "true" tissue gain, versus extracellular water (which might be considered edema or swelling from the high training volume).  The researchers found that, while lean mass continued to increase with progressively higher volume, there was no longer a significant increase in lean mass from the midpoint of the study to the end when the results were corrected for extracellular water.
 
-![](https://weightology.net/wp-content/uploads/2018/09/Huan-volume.jpg)
+<img src="https://weightology.net/wp-content/uploads/2018/09/Huan-volume.jpg" class="img-fluid" alt="Responsive image">
 
 This study has been used as evidence to indicate anything beyond 20 weekly sets isn't effective for hypertrophy.  However, there are a number of problems with this conclusion:
 
@@ -309,29 +309,29 @@ There was a clear dose-response effect in terms of volume in this study, especia
 
 * [In a study of which I was a coauthor](https://www.ncbi.nlm.nih.gov/pubmed/30153194), Brad Schoenfeld and colleagues replicated the design of the [Radaelli study](https://www.ncbi.nlm.nih.gov/pubmed/25546444), but with trained subjects.  The subjects performed 1, 3, or 5 sets per exercise, for 8-12 reps to failure and 1.5 minute rests.  They trained 3 times per week for 8 weeks.  One difference from Radaelli, other than the length of the study, was that nearly all movements were compound movements (bench press, military press, lat pull, seated row, squat, and leg press; the only isolation movement was leg extension).  Total weekly sets were 6, 18, and 30 for biceps and triceps, and 9, 27, and 45 for quadriceps.  A significant dose-response effect was observed in the biceps, rectus femoris (part of the quadriceps), and vastus lateralis (part of the quadriceps).  There was not a significant effect for triceps, although the overall pattern had similarities to the other muscles.
 
-![](https://weightology.net/wp-content/uploads/2018/09/dose-response-1024x667.png)
+<img src="https://weightology.net/wp-content/uploads/2018/09/dose-response-1024x667.png" class="img-fluid" alt="Responsive image">
 
 The big strength of this study was that it was mostly a replication of another study, and the results were similar.  [Replication is an important concept in science](https://en.wikipedia.org/wiki/Replication); when independent research groups can replicate results, it gives more credence to the findings.  This study, along with Radaelli, provide evidence that the upper limit for weekly volumes may be higher than previously thought.  You can also see the dramatic variation in how people respond to any given volume.  For example, in the low volume groups, some people had higher gains in muscle thickness than some of the people in the highest volume groups.
 
 If we classify subjects into "low responders" based on whether they met the "smallest worthwhile change" (which is at least 0.2 standard deviation units, or a "small" effect size), then the percentage of low responders decreases as you increase volume.  In fact, there were very few low responders in the highest volume condition.
 
-![](https://weightology.net/wp-content/uploads/2018/09/low-responders-1024x682.png)
+<img src="https://weightology.net/wp-content/uploads/2018/09/low-responders-1024x682.png" class="img-fluid" alt="Responsive image">
 
 The same holds true for high responders (define as improving by at least 0.8 standard deviation units, or a "large" effect size).  As volume increased, the percentage of high responders also increased.
 
-![](https://weightology.net/wp-content/uploads/2018/09/high-responders-1024x682.png)
+<img src="https://weightology.net/wp-content/uploads/2018/09/high-responders-1024x682.png" class="img-fluid" alt="Responsive image">
 
 This data would suggest that, for people who are "hardgainers", an increase in volume may be necessary.  This is at odds with [the conventional wisdom that hardgainers require less volume and more recovery](https://www.hardgainer.com/).  However, this data is in agreement with [research on endurance training](https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP273480), where non-responders do show a response when subjected to more volume.  Now, there are some limitations to this type of analysis.  The percentage of responders could be a totally random phenomenon; if you were to replicate this study, you might end up with no apparent responder/non-responder effect.
 
 * [Heaselgrave and colleagues](https://www.ncbi.nlm.nih.gov/pubmed/30160627) explored the impact of 9, 18, or 27 weekly sets on biceps thickness, isometric strength, and 1-RM strength.  Trained males were allocated to a low volume, moderate volume, or high volume group.  The low volume group performed 9 sets targeting the biceps once per week.  The moderate and high volume groups performed 9 or 13-14 sets per session, twice per week.  Exercises were seated supine biceps curl, supine grip bent over row, and supine grip pulldown.  The low and moderate volume groups did 3 sets of each exercise.  The high volume group did 4-5 sets of each exercise.  Subjects performed each set for 10-12 reps, aiming for 2 Reps In Reserve (RIR).  Rest periods were 3 minutes between sets.  There were no significant differences between groups in changes in 1-RM strength or biceps thickness, although isometric strength only improved in the highest volume group.  While there were no significant differences in changes in bicep thickness, the magnitude of the percentage gain tended to favor the moderate group over the other groups (9.5% versus 4.3% or 5.4%).  Judging by the individual data, it appears there were more high responders in the moderate group, as well as less non-responders.
 
-![](https://weightology.net/wp-content/uploads/2018/09/heaselgrave-chart.jpg)
+<img src="https://weightology.net/wp-content/uploads/2018/09/heaselgrave-chart.jpg" class="img-fluid" alt="Responsive image">
 
 One limitation of this study was that subjects were allowed to train outside of the study.  While the researchers asked the subjects not to do any sort of pulling or bicep movements, and while the subjects did record their own training journals outside the study to ensure this wasn't happening, it can't be ruled out that they may have been doing some other pulling or bicep work.  Another limitation is the short duration of the study (6 weeks); it is the shortest study among all the dose-response studies on volume.  It is possible that longer durations could show differences; for example, [one study found no significant difference in hypertrophy between 12 and 4 weekly sets after 6 weeks, but did  show a difference after 20 weeks](https://www.ncbi.nlm.nih.gov/pubmed/24414336).  A third limitation is that the groups used different frequencies; the low volume group trained biceps once per week, while the other two groups trained biceps twice per week.  [While frequency does not appear to impact hypertrophy much on a volume equated basis](https://weightology.net/the-members-area/evidence-based-guides/training-frequency-for-hypertrophy-the-evidence-based-bible/), it may impact hypertrophy when weekly training volumes become high as I pointed out earlier in this article.
 
 * [Ostrowski and colleagues](http://journals.lww.com/nsca-jscr/Abstract/1997/08000/The_Effect_of_Weight_Training_Volume_on_Hormonal.3.aspx) examined the effects of 1, 2, or 4 sets per exercise on hypertrophy in trained subjects.  The study lasted for 10 weeks.  Subjects did 7-12 reps to failure per set, with 3 minute rests between sets.  Each exercise was performed once per week.  Triceps were trained twice per week, as pressing movements were performed on one day, and isolation movements were performed on another day.  Only triceps and quadriceps hypertrophy were assessed.  Quadriceps training volume did not exceed 12 total weekly sets since they were only trained once per week.  However, triceps weekly volume, when counting pressing movements, was 7, 14, and 28 for the low, moderate, and high volume groups, respectively.  There were no significant differences in changes in triceps thickness between the groups, although the percentage gains and effect sizes favored the groups doing 14 and 28 weekly sets.  In fact, percentage gains and effect sizes for 14-28 weekly sets were about twice that of 7 weekly sets.  There was little difference between 14 and 28, however.
 
-![](https://weightology.net/wp-content/uploads/2017/11/ostrowski-triceps-1024x237.png)
+<img src="https://weightology.net/wp-content/uploads/2017/11/ostrowski-triceps-1024x237.png" class="img-fluid" alt="Responsive image">
 
 * I no longer consider the Barbalho studies ([here](https://www.researchgate.net/publication/328502454_Evidence_for_an_Upper_Threshold_for_Resistance_Training_Volume_in_Trained_Women) and [here](https://journals.humankinetics.com/doi/10.1123/ijspp.2018-0914)) as reliable studies. [One of the studies has been retracted](https://journals.humankinetics.com/view/journals/ijspp/15/2/article-p268.xml). I will have more info on the other one in the future. They are not included in this review or in any of the meta-regression analyses.
 * [Aube and colleagues](https://journals.lww.com/nsca-jscr/Abstract/publishahead/Progressive_Resistance_Training_Volume__Effects_on.94521.aspx) looked at the impacts of 12, 18, or 24 weekly sets on hypertrophy in quadriceps of trained subjects. They didn't find a dose-response relationship. There was no significant differences in hypertrophy between the weekly volumes. For a detailed analysis of this study, [check out my research review article on it](https://weightology.net/research-review-february-2020/more-volume-or-not-so-many-studies-so-much-confusion/).
@@ -341,7 +341,7 @@ Why are there differences in the outcomes of these dose-response studies?  Three
 
 * **Random chance**.  [As I have written about here](https://weightology.net/why-do-resistance-training-studies-differ-in-their-findings-a-lesson-in-sampling-variance/), you can get different results in training volume studies due to random chance alone, even if study designs are identical (which in this case, they are not).  This is especially true when you have small sample sizes (most resistance training studies don't have more than 9-20 per group), and you're measuring something that shows tremendous variance from one person to the next, like hypertrophy.  In that article, I did a statistical simulation of 5 different studies that sampled from populations that showed a graded dose-response effect of volume on hypertrophy.  The studies all had different outcomes, as you can see in this set of charts:
 
-![](https://weightology.net/wp-content/uploads/2018/09/Sampling-Variance-five-simulated-studies-1024x479.jpg)
+<img src="https://weightology.net/wp-content/uploads/2018/09/Sampling-Variance-five-simulated-studies-1024x479.jpg" class="img-fluid" alt="Responsive image">
 
 Thus, it's possible that one factor behind the different results of these studies are due to random chance, or a combination of random chance and different study designs.  This is why meta-analysis and meta-regression become important.
 
@@ -401,11 +401,11 @@ Increasing weekly volume by adding training days represents an alternative to ad
 
 Theoretically, increasing volume by adding frequency would increase gains. Unfortunately, there is very limited research as to the effects of using a higher frequency as a tool to increase volume. One study where this did occur was the study by [Heaselgrave and colleagues](https://www.ncbi.nlm.nih.gov/pubmed/30160627) which was discussed earlier. The lowest volume group did 9 sets on biceps, once per week, while the moderate volume group did 9 sets on biceps, twice per week. While not statistically significant, the increase in frequency tended to show an improvement in hypertrophy, with a doubling of the percentage change (9.5 versus 4.3%).
 
-![](https://weightology.net/wp-content/uploads/2018/09/heaselgrave-chart.jpg)
+<img src="https://weightology.net/wp-content/uploads/2018/09/heaselgrave-chart.jpg" class="img-fluid" alt="Responsive image">
 
 Unfortunately this was the only study performed on trained subjects. [Barcelos and colleagues](https://www.ncbi.nlm.nih.gov/pubmed/29852092) compared 3 sets of leg extensions performed 2, 3, or 5 times per week (6, 9, and 15 weekly sets) in untrained subjects. While changes in muscle size tended to be the greatest in the highest weekly volume group after 4 weeks, the other groups caught up so that by the end of 8 weeks, changes in muscle size were similar.
 
-![](https://weightology.net/wp-content/uploads/2019/06/different-frequencies-and-volumes-in-beginners-1024x682.jpg)
+<img src="https://weightology.net/wp-content/uploads/2019/06/different-frequencies-and-volumes-in-beginners-1024x682.jpg" class="img-fluid" alt="Responsive image">
 
 Again, individual results may vary from the averages..[This same study by Barcelos](https://www.ncbi.nlm.nih.gov/pubmed/30289872) showed about a third of beginners benefited from an increase in frequency, another third benefited from a decrease in frequency, and a third showed no additional benefit to either one. Thus, with 2/3 of the subjects showing either a benefit or neutral effect of lower frequency, beginners are best erring on the side of low volume and frequency for their hypertrophy programs.
 
@@ -415,7 +415,7 @@ For experienced individuals, a method of volume cycling using frequency could st
 
 While volume may be a tool to help turn non-responders into responders, especially in trained subjects, there are still limitations to its ability to induce a response. The evidence suggests that how people respond to volume is genetically determined. [In this study](https://www.biorxiv.org/content/10.1101/666347v1), beginning lifters performed single leg press and single leg extensions. One leg was trained with low volume (1 set per exercise or 2 total sets for quadriceps), and the other with moderate volume (3 sets per exercise or 6 total sets for quadriceps). Since this was a _**within-subject design**_, it removes the effect of genetic variability, and allows a scientist to isolate the effect of volume. The response to low volume was correlated to the response with high volume, with a correlation coefficient of 0.75 (1 is a perfect correlation).
 
-![](https://weightology.net/wp-content/uploads/2019/06/volume-correlation.jpg)
+<img src="https://weightology.net/wp-content/uploads/2019/06/volume-correlation.jpg" class="img-fluid" alt="Responsive image">
 
 In other words, subjects who were good responders to low volume also tended to be good responders to high volume. Subjects who were poor responders to low volume also tended to be poor responders to high volume (even if the response was improved). This suggests that genetics are the ultimate dictator of how much muscle you'll gain, regardless of your training volume. Some people will grow a lot no matter what type of training they do, and some people won't grow much no matter what type of training they do. While increasing volume may help with your response, it is unlikely that increasing volume will turn you from a hardgainer into an easy gainer. Rather, it is more likely you'll just turn into less of a hardgainer. That's not to say you won't get improvement from increasing volume if you are a hardgainer. If you look at the above graph, there were certain individuals who had a much better response with more sets (such as one individual who went from a 2% change in muscle size with 2 sets per session to nearly a 10% change in muscle size with 6 sets per session).
 
@@ -453,7 +453,7 @@ This brings up the idea that, for most people, achieving very high volumes for m
 
 In science, there is something called a "convergence of evidence", also known as "[consilience](https://en.wikipedia.org/wiki/Consilience)."  This is where, when multiple sources of evidence are in agreement, the conclusion can be strong even if the conclusion from any one particular piece of evidence is not strong.  In this case, we have lines of evidence from protein synthesis data, anabolic signaling data, satellite cell data, and meta-analytic data, all clustering around a conclusion that _**more volume is better for hypertrophy, up to around 6-8 sets per training session**_. This is only if you're using long rests between sets (2+ minutes). If you're using shorter rests, then volume needs may be higher. These are average ranges and individual needs may vary substantially from these ranges. Here's an overview of how all the evidence converges.  You can see how every line of evidence points to a similar conclusion.
 
-![](https://weightology.net/wp-content/uploads/2020/03/set-volume-hypertrophy-conclusions.jpg)
+<img src="https://weightology.net/wp-content/uploads/2020/03/set-volume-hypertrophy-conclusions.jpg" class="img-fluid" alt="Responsive image">
 
 Now, there are a number of limitations to these conclusions:
 
@@ -471,7 +471,7 @@ Now, there are a number of limitations to these conclusions:
 
 It's interesting to note, anecdotally, that some top trainers in the industry use specialization routines and weekly set volumes of 30-40 to achieve maximum hypertrophy in target muscle groups.  [Bret Contreras](http://www.bretcontreras.com/) often programs 30-40 weekly sets for glutes in his clients, and [Bryan Krahn has mentioned using specialization and 30-40 weekly sets to maximize hypertrophy in a particular muscle group](http://www.bryankrahn.com/youre-too-boring-to-build-muscle/).  My friend [Jacob Schepis also embarked on his own 10-month high volume arm specialization routine](https://www.jpshealthandfitness.com.au/sharing-gains-program-design-arm-hypertrophy/), where biceps and triceps each got about 30 weekly sets (about 15 direct and 15 indirect).  Here is visible evidence of his results (and this is in a well trained individual!):
 
-![](https://weightology.net/wp-content/uploads/2018/09/jacob-schepis-hypertrophy-1024x559.png)
+<img src="https://weightology.net/wp-content/uploads/2018/09/jacob-schepis-hypertrophy-1024x559.png" class="img-fluid" alt="Responsive image">
 
 ---
 
@@ -481,13 +481,13 @@ So how might you apply this information to structuring a training program for ma
 
 When trying a program like this, considering using a volume ramp method. Start with 1-2 sets per exercise. Either on a weekly basis, or as you hit plateaus, add one set per exercise. Continue to do this until you hit 8 sets per muscle group or until you've done two successive 20% increases in set volume with no further progress. Once you've hit a plateau that you can no longer break through, then consider reducing volume again.
 
-![](https://weightology.net/wp-content/uploads/2018/09/Moderate-volume-program-example-1-1024x691.png)
+<img src="https://weightology.net/wp-content/uploads/2018/09/Moderate-volume-program-example-1-1024x691.png" class="img-fluid" alt="Responsive image">
 
 **Practical Application: High Volume Arm Specialization Example**
 
 In this example, upper body is trained three times per week (one day is a dedicated arm day) and lower body twice per week.  Total arm volume is approximately 26 sets for triceps and 32 sets for biceps  (counting both indirect and direct movements).  Other muscle groups are in the 12-18 range.  Sets per training session does not exceed 10 per muscle group.
 
-![](https://weightology.net/wp-content/uploads/2018/10/arm-specialization-1024x647.png)
+<img src="https://weightology.net/wp-content/uploads/2018/10/arm-specialization-1024x647.png" class="img-fluid" alt="Responsive image">
 
 **Wrapping It Up**
 
