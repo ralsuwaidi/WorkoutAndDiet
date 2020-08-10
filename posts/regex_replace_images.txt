@@ -1,5 +1,5 @@
 
-To replace basic images with bootstrap 
+## To replace basic images with bootstrap 
 
 \[.*\((.*)(png|jpg|jpeg)\)\]\(.*\)
 <img src="$1" class="img-fluid" alt="Responsive image">
@@ -9,3 +9,10 @@ To replace basic images with bootstrap
 
 !\[\]\((.*.(png|jpeg|jpg))\)
 <img src="$1" class="img-fluid" alt="Responsive image">
+
+<.*\[.*\]\((.*)\)\n<figcaption .*t">(.*)<\/figcaption><\/figure>
+
+## table
+<td>[(.*)]\((.*)\)</td>
+<a href="https://www.frontiersin.org/articles/10.3389/fphys.2018.00744/full">Higher Training Frequency Is Important for Gaining Muscular Strength Under Volume-Matched Training</a>
+<a href="$2">$1</a>
