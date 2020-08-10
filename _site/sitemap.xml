@@ -12,12 +12,17 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/research/</loc>
+    <loc>https://example.com/tags/advanced/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/strength/</loc>
+    <lastmod>2020-07-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/keto/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
@@ -37,12 +42,12 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/article/</loc>
+    <loc>https://example.com/tags/research/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/advanced/</loc>
+    <loc>https://example.com/tags/creatine/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
@@ -77,7 +82,7 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/creatine/</loc>
+    <loc>https://example.com/tags/article/</loc>
     <lastmod>2020-07-31</lastmod>
   </url>
   
@@ -223,6 +228,11 @@
   
   <url>
     <loc>https://example.com/posts/collection-suppliment-vitamin-studies/</loc>
+    <lastmod>2020-08-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/keto-study-collection/</loc>
     <lastmod>2020-08-10</lastmod>
   </url>
   
