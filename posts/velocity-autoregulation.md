@@ -100,4 +100,3 @@ As I mentioned, I think the velocity feedback in one group and not the other cou
 
 If you have a device for measuring bar velocity, you may be able to use velocity targets and velocity stops to create a training program that is more responsive to you and that will ultimately lead to faster strength gains. If you don’t, RPE stops and RPE load targets may work just as well, given the emerging work on RPE programs, which Mike reviewed this month.
 
-## 
